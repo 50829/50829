@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 
-🎄 **Others**
+🎄 **Statistics**
+
 [![50829's GitHub stats](https://github-readme-stats.vercel.app/api?username=50829&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=50829&layout=compact" />
