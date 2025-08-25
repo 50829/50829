@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! My name is  50829, you can call me Wind or sdd instead.I am a undergraduate Data Science student at USTC, recently interested in AI.
+Hello! My name is 50829, you can call me Wind or sdd instead. I am a undergraduate Data Science student at USTC, recently interested in AI.
 <!--
 **50829/50829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
